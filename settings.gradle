@@ -1,0 +1,2 @@
+rootProject.name='存取檔案功能lipin_app'
+include ':app'
